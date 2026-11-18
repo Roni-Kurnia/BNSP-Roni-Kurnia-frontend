@@ -166,7 +166,7 @@ export default function App() {
 
           <div className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-xs flex items-center gap-3.5">
             <div className="w-11 h-11 rounded-xl bg-emerald-50 border border-emerald-100 text-emerald-600 flex items-center justify-center text-xl shrink-0">
-              🚀
+              📚
             </div>
             <div>
               <p className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider">Status Backend</p>
